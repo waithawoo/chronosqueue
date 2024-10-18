@@ -1,0 +1,4 @@
+- add encryption
+- add logger
+- add scheduling feature
+- setup with docker
